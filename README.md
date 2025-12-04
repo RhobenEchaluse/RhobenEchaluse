@@ -1,4 +1,5 @@
-<img width="3279" height="484" alt="github top border" src="https://github.com/user-attachments/assets/cbf754d7-11c5-4537-afde-5d0422dd211e" />
+<img width="3279" height="484" alt="github bottom border" src="https://github.com/user-attachments/assets/26569e51-f13e-4767-b5f4-56902127eba5" />
+
 
 
 # 👋Hi there, I'm Rhoben Echaluse! 
@@ -22,5 +23,6 @@ I am a BSIT student with a strong interest in web development. While I primarily
   - Frameworks & Tools: Lucidchart, Canva, Figma
     
 
-<img width="3279" height="484" alt="github bottom border" src="https://github.com/user-attachments/assets/90ed0278-73cf-4d91-8741-2fa5209ec0c7" />
+<img width="3279" height="484" alt="github top border" src="https://github.com/user-attachments/assets/9cd1cb36-9e25-4eb9-ac46-d50958f7f109" />
+
 
