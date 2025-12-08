@@ -13,6 +13,7 @@ I am a BSIT student with a strong interest in web development. While I primarily
 # 🏅Certifications 
 
   - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/63b204eb173943ef8b64db6cd85a88ce)
+  - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8839CDEB545CB62FA6CBD679EABC8167C411A83B14F40D8447F3E3F5F10268B8)
 
 # ⚙️Skill set
 
